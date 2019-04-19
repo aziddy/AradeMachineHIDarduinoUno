@@ -42,13 +42,29 @@ Went to Home Depot. Cut the wood using a Jig, Dremel and a Hole Saw. Then fitted
 
  <p align="center" style="vertical-align: top; position: relative" >
   <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150807_153505.jpg?raw=true" width="700"/>
+   <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150810_160429.jpg?raw=true" width="700"/>
+
+ 
 </p>
 
 
  <br> 
  <br>
  
-Then there is the Video Out Composite on Pi 2 and above thats a pain in the ass. Because now they decide to put both composite video and left and right audio into a akwardly formatted TRRS jack. And of course Ebay sellers don't know which standard they're selling, so I ended just resoldering the thing
+Wired the control board up and started testing it with a Arduino
+ 
+  <p align="center" style="vertical-align: top; position: relative" >
+  <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150813_203608.jpg?raw=true" width="700"/>
+ 
+ <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150808_004219.jpg?raw=true" width="700"/>
+ 
+
+</p>
+ 
+  <br> 
+ <br>
+ 
+Then there is the Video Out Composite on Pi 2 and above thats a pain in the ass. Because now they decide to put both composite video and left and right audio into a akwardly formatted TRRS jack. And of course Ebay sellers don't know which standard they're selling, so I ended up resoldering it
 
  <p align="center" style="vertical-align: top; position: relative" >
   <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/Model-B-Plus-Audio-Video-Jack-Diagram.png?raw=true" width="700"/>
