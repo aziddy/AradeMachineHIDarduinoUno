@@ -73,6 +73,36 @@ Then there is the Video Out Composite on Pi 2 and above thats a pain in the ass.
  
    <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150828_192344.jpg?raw=true" width="700"/>
  
+</p>
+
+
+
+  <br> 
+ <br>
  
+ 
+ 
+ Bought a small cheap speaker off Amazon and then tore it apart to place in the Arcade Machine
+
+ <p align="center" style="vertical-align: top; position: relative" >
+
+ 
+   <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/spek.PNG?raw=true" width="400"/>
+ 
+   <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150816_003014.jpg?raw=true" width="400"/>
+ 
+</p>
+
+  <br> 
+ <br>
+
+Eventually I ended up cutting the rest of the wood and then spray painted and then glued together
+
+ <p align="center" style="vertical-align: top; position: relative" >
+
+   <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150829_030827.jpg?raw=true" width="400"/>
 
 </p>
+
+
+
