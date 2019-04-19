@@ -16,6 +16,7 @@
  <p align="center" style="vertical-align: top; position: relative" >
   <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150704_143248.jpg?raw=true" width="700"/>
 </p>
+
  <br> 
  <br>
 
@@ -25,6 +26,23 @@ So I went to the nearest hobby electronic store and bought a Pi2, joystick and s
   <img align="top" style="vertical-align:top;position: relative" src="https://raw.githubusercontent.com/aziddy/ArcadeMachine/master/media/20150704_193609.jpg" width="700"/>
 </p>
 
+ <br> 
+ <br>
+ 
+Then started using my caliper to get dimensions to put into CAD
+
+ <p align="center" style="vertical-align: top; position: relative" >
+  <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/IMG_20150705_023528.jpg?raw=true" width="700"/>
+</p>
+
+ <br> 
+ <br>
+ 
+Went to Home Depot. Cut the wood using a Jig, Dremel and a Hole Saw. Then fitted the Buttons and stick in
+
+ <p align="center" style="vertical-align: top; position: relative" >
+  <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150807_153505.jpg?raw=true" width="700"/>
+</p>
 
 
 
