@@ -101,6 +101,9 @@ Eventually I ended up cutting the rest of the wood and then spray painted and th
  <p align="center" style="vertical-align: top; position: relative" >
 
    <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150829_030827.jpg?raw=true" width="400"/>
+   
+   <img align="top" style="vertical-align:top;position: relative" src="https://github.com/aziddy/ArcadeMachine/blob/master/media/20150830_183007.jpg?raw=true" width="800"/>
+   
 
 </p>
 
